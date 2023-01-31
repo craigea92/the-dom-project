@@ -39,3 +39,19 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.play-game {
+  border: none;
+  font-family: 'Indie Flower', cursive;
+  color: #ffffff;
+  font-size: 30px;
+  background: #4ECCA3;
+  padding: 15px 30px 15px 30px;
+  text-decoration: none;
+  margin: 5%;
+}
+
+.play-game:hover {
+  background: #48b38f;
+  text-decoration: none;
+}
