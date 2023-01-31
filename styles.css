@@ -42,6 +42,7 @@ footer {
 
 .play-game {
   border: none;
+  border-radius: 5px;
   font-family: 'Indie Flower', cursive;
   color: #ffffff;
   font-size: 30px;
