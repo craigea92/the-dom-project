@@ -15,7 +15,7 @@ At present, I consider this project to be complete, and I would not make any mod
 ## How to Install and Run
 Try it here: https://craigea92.github.io/the-dom-project/
 ```
-git clone https://github.com/craigea92/a-javascript-drumkit.git
+git clone https://github.com/craigea92/the-dom-project.git
 open index.html
 ```
 ## Screenshot
