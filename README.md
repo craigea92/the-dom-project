@@ -16,6 +16,7 @@ At present, I consider this project to be complete, and I would not make any mod
 Try it here: https://craigea92.github.io/the-dom-project/
 ```
 git clone https://github.com/craigea92/the-dom-project.git
+cd the-dom-project
 open index.html
 ```
 ## Screenshot
@@ -24,3 +25,6 @@ open index.html
 
 ## What is the DOM?
 The Document Object Model is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document.
+
+## Const vs Let
+`const` is a signal that the identifier won't be reassigned. `let` is a signal that the variable may be reassigned.
